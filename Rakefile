@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "unicode-block"
   gem.homepage = "http://github.com/lpm11/unicode-block"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Unicode block list class.}
+  gem.description = %Q{Unicode block list class.}
   gem.email = "lpm11r@gmail.com"
   gem.authors = ["lpm11"]
   # dependencies defined in Gemfile
