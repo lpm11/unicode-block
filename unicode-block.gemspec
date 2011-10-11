@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = "unicode-block"
-  s.version = "1.0.0"
+  s.version = "1.1.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["lpm11"]
@@ -27,7 +27,8 @@ Gem::Specification.new do |s|
     "example/example1.rb",
     "lib/unicode-block.rb",
     "spec/spec_helper.rb",
-    "spec/unicode-block_spec.rb"
+    "spec/unicode-block_spec.rb",
+    "unicode-block.gemspec"
   ]
   s.homepage = "http://github.com/lpm11/unicode-block"
   s.licenses = ["MIT"]
